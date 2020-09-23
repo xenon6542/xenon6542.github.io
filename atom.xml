@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xenon6542.github.io</id>
+    <title>Xenon的学习园地</title>
+    <updated>2020-09-23T03:01:56.811Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://xenon6542.github.io"/>
+    <link rel="self" href="https://xenon6542.github.io/atom.xml"/>
+    <subtitle>思惟惟 融融惟</subtitle>
+    <logo>https://xenon6542.github.io/images/avatar.png</logo>
+    <icon>https://xenon6542.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, Xenon的学习园地</rights>
+    <entry>
+        <title type="html"><![CDATA[应用文 推荐信 推荐旅游景点]]></title>
+        <id>https://xenon6542.github.io/post/ying-yong-wen-tui-jian-xin-tui-jian-lu-you-jing-dian/</id>
+        <link href="https://xenon6542.github.io/post/ying-yong-wen-tui-jian-xin-tui-jian-lu-you-jing-dian/">
+        </link>
+        <updated>2020-09-23T02:46:19.000Z</updated>
+        <summary type="html"><![CDATA[<p>2017考研英语一 介绍北京 仿写介绍清远</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>2017考研英语一 介绍北京 仿写介绍清远</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://xenon6542.github.io/post/hello-gridea/</id>
+        <link href="https://xenon6542.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></content>
+    </entry>
+</feed>
